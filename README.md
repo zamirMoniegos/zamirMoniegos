@@ -1,3 +1,18 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+
+<h1 align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com/?
+font-Righteous&size=35&center=true&vCenter=true&width=500&height=78&duration=4000&lines-Hi+There!+,+I'm+Pedro+Muniz!," />
+
+</h1>
+
+<h3 align="center">A passionate software developer from Canada Ca</h3>
+
+<br/>
+
+<div align="center">
+  
 # Hello, I'm Zamir Moniegos! 🚀
 
 ## About Me
