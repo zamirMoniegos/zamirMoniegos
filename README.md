@@ -9,7 +9,7 @@ I am Zamir Moniegos, a passionate coder with a knack for database management. I 
   - 2021-Present
 
 ## Certifications
-- [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](Certification-Links-Here)
+- [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=AB7D526249900AE7B4CA3D4626323DDCFC6FE8C13C87AC8A8C99E56BC9769521&fbclid=IwAR1FhUg7ZZPIKMsTD2y_65aNIeFzjq0gLW1KbFBbV8OHObEsjJ2HDYJckYA)
 - [Oracle Cloud Data Management 2023 Certified Foundations Associate](Certification-Links-Here)
 - [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](Certification-Links-Here)
 - [SQL and Relational Databases 101](Certification-Links-Here)
