@@ -3,11 +3,11 @@
 <h1 align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com/?
-font-Righteous&size=35&center=true&vCenter=true&width=500&height=78&duration=4000&lines-Hi+There!+,+I'm+Pedro+Muniz!," />
+font-Righteous&size=35&center=true&vCenter=true&width=500&height=78&duration=4000&lines-Hi+There!+,+I'm+zamir+Moniegos!," />
 
 </h1>
 
-<h3 align="center">A passionate software developer from Canada Ca</h3>
+<h3 align="center"></h3>
 
 <br/>
 
