@@ -1,8 +1,7 @@
 # Hello, I'm Zamir Moniegos! 🚀
 
 ## About Me
-I am Zamir Moniegos, a passionate coder with a knack for database management. I enjoy unraveling complex problems and creating elegant solutions. My journey in technology began with the BS Information Technology program, and I've been on a continuous learning adventure ever since.
-
+I'm Zamir Moniegos, a dedicated coder with a talent for database administration. I appreciate solving complex problems and coming up with elegant solutions. My technological career began with the BS Information Technology program, and I've been on a never-ending learning trip ever since.
 ## Education
 - **BS Information Technology**
   - New Era University
