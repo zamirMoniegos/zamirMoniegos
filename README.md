@@ -14,10 +14,7 @@ I'm Zamir Moniegos, a dedicated coder with a talent for database administration.
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/6b57818421e841148a91c47a60355e3e)
 
 ## Skill Sets
-![lucidchart](https://github.com/zamirMoniegos/zamirMoniegos/assets/136047878/7dacb242-c681-49f7-9216-f75f4787d690)
-![jaspersoft](https://github.com/zamirMoniegos/zamirMoniegos/assets/136047878/7de06feb-c76d-4e3c-906e-11d4f68b1c21)
-![eclipse](https://github.com/zamirMoniegos/zamirMoniegos/assets/136047878/059b2a9d-80ec-4450-a2b7-cc17e15fedca)
-![HTML](https://github.com/zamirMoniegos/zamirMoniegos/assets/136047878/d0f8e7f3-7580-4a74-8e63-ccb3a0fee18d)
+
 - **Programming:** Java, JavaScript
 - **Databases:** IBM DB2 Cloud
 - **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML
