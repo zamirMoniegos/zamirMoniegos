@@ -15,9 +15,16 @@ I'm Zamir Moniegos, a dedicated coder with a talent for database administration.
 
 ## Skill Sets
 
-- **Programming:** Java, JavaScript
-- **Databases:** IBM DB2 Cloud
-- **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML
+ **Programming Languages**
+- ![java](https://github.com/zamirMoniegos/zamirMoniegos/assets/152570978/10afc028-39bb-4de1-a991-6cfee6c9532e)
+- ![javascript](https://github.com/zamirMoniegos/zamirMoniegos/assets/152570978/0fe1047d-1696-4dcc-ab57-77ef053511f9)
+
+  - **Tools:**
+- ![lucidchart](https://github.com/zamirMoniegos/zamirMoniegos/assets/152570978/42d500b6-dfc0-46be-a080-ba048dcfd01f)
+- ![jaspersoft](https://github.com/zamirMoniegos/zamirMoniegos/assets/152570978/0619be8f-503d-43da-90cb-3ba79de7368c)
+- ![eclipse](https://github.com/zamirMoniegos/zamirMoniegos/assets/152570978/b7ef1b8c-0acf-45c0-817d-eaece3e67e5e)
+- ![HTML](https://github.com/zamirMoniegos/zamirMoniegos/assets/152570978/c3d10877-cffc-4bd4-a6f5-e46f103cfaa5)
+- 
 
 ## How to Reach Me
 - LinkedIn: [LinkedIn Profile](LinkedIn-Profile-Link-Here)
