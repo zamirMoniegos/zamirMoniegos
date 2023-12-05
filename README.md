@@ -2,10 +2,11 @@
 
 ## About Me
 I'm Zamir Moniegos, a dedicated coder with a talent for database administration. I appreciate solving complex problems and coming up with elegant solutions. My technological career began with the BS Information Technology program, and I've been on a never-ending learning trip ever since.
+
 ## Education
 - **BS Information Technology**
   - New Era University
-  - 2021-Present
+  - 2022-Present
 
 ## Certifications
 - [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=AB7D526249900AE7B4CA3D4626323DDCFC6FE8C13C87AC8A8C99E56BC9769521&fbclid=IwAR1FhUg7ZZPIKMsTD2y_65aNIeFzjq0gLW1KbFBbV8OHObEsjJ2HDYJckYA)
@@ -40,7 +41,7 @@ I'm Zamir Moniegos, a dedicated coder with a talent for database administration.
 
 
 ## How to Reach Me
-- LinkedIn: [LinkedIn Profile](LinkedIn-Profile-Link-Here)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/zamir-moniegos-9399642a2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - Email: [zamir.moniegoss@gmail.com](mailto:zamir.moniegoss@gmail.com)
 
-Let's connect and collaborate on exciting projects! 👨‍💻✨
+Let's connect and work on exciting projects together! 👨‍💻✨
