@@ -24,7 +24,7 @@ I'm Zamir Moniegos, a dedicated coder with a talent for database administration.
 
 
 
-<link href="https://fonts.googleapis.com/css2?family=Hedvig+Letters+Serif:opsz@12..24&display=swap" rel="stylesheet">
+
 **Databases**
 
 
@@ -32,10 +32,10 @@ I'm Zamir Moniegos, a dedicated coder with a talent for database administration.
   **Tools:**
  
 
-- ![lucidchart](https://github.com/zamirMoniegos/zamirMoniegos/assets/152570978/42d500b6-dfc0-46be-a080-ba048dcfd01f)
-- ![jaspersoft](https://github.com/zamirMoniegos/zamirMoniegos/assets/152570978/0619be8f-503d-43da-90cb-3ba79de7368c)
-- ![eclipse](https://github.com/zamirMoniegos/zamirMoniegos/assets/152570978/b7ef1b8c-0acf-45c0-817d-eaece3e67e5e)
-- ![HTML](https://github.com/zamirMoniegos/zamirMoniegos/assets/152570978/c3d10877-cffc-4bd4-a6f5-e46f103cfaa5)
+![lucidchart](https://github.com/zamirMoniegos/zamirMoniegos/assets/152570978/42d500b6-dfc0-46be-a080-ba048dcfd01f)
+![jaspersoft](https://github.com/zamirMoniegos/zamirMoniegos/assets/152570978/0619be8f-503d-43da-90cb-3ba79de7368c)
+![eclipse](https://github.com/zamirMoniegos/zamirMoniegos/assets/152570978/b7ef1b8c-0acf-45c0-817d-eaece3e67e5e)
+![HTML](https://github.com/zamirMoniegos/zamirMoniegos/assets/152570978/c3d10877-cffc-4bd4-a6f5-e46f103cfaa5)
 
 
 
