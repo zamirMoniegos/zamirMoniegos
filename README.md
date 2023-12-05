@@ -24,7 +24,12 @@ I'm Zamir Moniegos, a dedicated coder with a talent for database administration.
 
 
 
-  - **Tools:**
+<link href="https://fonts.googleapis.com/css2?family=Hedvig+Letters+Serif:opsz@12..24&display=swap" rel="stylesheet">
+**Databases**
+
+
+
+  **Tools:**
  
 
 - ![lucidchart](https://github.com/zamirMoniegos/zamirMoniegos/assets/152570978/42d500b6-dfc0-46be-a080-ba048dcfd01f)
