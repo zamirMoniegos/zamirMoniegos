@@ -15,7 +15,7 @@ I'm Zamir Moniegos, a dedicated coder with a talent for database administration.
 
 ## Skill Sets
 
- -**Programming Languages**
+**Programming Languages**
 
 
  
@@ -25,11 +25,11 @@ I'm Zamir Moniegos, a dedicated coder with a talent for database administration.
 
 
 
--**Databases**
+**Databases**
 
 ![IBM](https://github.com/zamirMoniegos/zamirMoniegos/assets/152570978/5ba1ed0a-4c74-4961-bc20-bebb05c1baee)
 
--**Tools:**
+**Tools:**
  
 
 ![lucidchart](https://github.com/zamirMoniegos/zamirMoniegos/assets/152570978/42d500b6-dfc0-46be-a080-ba048dcfd01f)
