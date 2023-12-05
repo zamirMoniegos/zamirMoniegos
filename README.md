@@ -15,21 +15,21 @@ I'm Zamir Moniegos, a dedicated coder with a talent for database administration.
 
 ## Skill Sets
 
- **Programming Languages**
+ -**Programming Languages**
 
 
  
-- ![java](https://github.com/zamirMoniegos/zamirMoniegos/assets/152570978/10afc028-39bb-4de1-a991-6cfee6c9532e)
-- ![javascript](https://github.com/zamirMoniegos/zamirMoniegos/assets/152570978/0fe1047d-1696-4dcc-ab57-77ef053511f9)
+![java](https://github.com/zamirMoniegos/zamirMoniegos/assets/152570978/10afc028-39bb-4de1-a991-6cfee6c9532e)
+![javascript](https://github.com/zamirMoniegos/zamirMoniegos/assets/152570978/0fe1047d-1696-4dcc-ab57-77ef053511f9)
 
 
 
 
-**Databases**
+-**Databases**
 
+![IBM](https://github.com/zamirMoniegos/zamirMoniegos/assets/152570978/5ba1ed0a-4c74-4961-bc20-bebb05c1baee)
 
-
-  **Tools:**
+-**Tools:**
  
 
 ![lucidchart](https://github.com/zamirMoniegos/zamirMoniegos/assets/152570978/42d500b6-dfc0-46be-a080-ba048dcfd01f)
