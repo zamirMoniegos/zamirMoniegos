@@ -13,6 +13,7 @@ I'm Zamir Moniegos, a dedicated coder with a talent for database administration.
 - [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=FCE0CE1C2B2FAAB78698FC4C5D55138AF7539386DB16DAE7086DCBBC7F99DF00&fbclid=IwAR0mB_XF6sZjGNSF-fvDvZGJYrptIDdwS5MSJZUgvdYP2Btp3IRTocqjYgs)
 - [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=1FFF3D30FDFC6A7178475E36EAC6710E5D69616470663C958398BECF1DDE641C&fbclid=IwAR3dQXEQLrvoXyK4y065DtYraRONYfinkB7-w92BYtCnfbeDnO8e-p1hwUY)
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/6b57818421e841148a91c47a60355e3e)
+- [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/0d31c7467bdd46269e05acfa3263e3c4)
 
 ## Skill Sets
 
