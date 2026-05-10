@@ -3,6 +3,9 @@
 ## About Me
 I'm Zamir Moniegos, a dedicated coder with a talent for database administration. I appreciate solving complex problems and coming up with elegant solutions. My technological career began with the BS Information Technology program, and I've been on a never-ending learning trip ever since.
 
+### What I Do
+I craft clean, user-centered web experiences by combining **UI/UX design principles** with solid **web development** skills. From wireframing intuitive interfaces to writing structured, responsive front-end code, I focus on building digital products that are both visually appealing and easy to use. Whether it's designing a seamless user flow or bringing a layout to life with HTML, CSS, and JavaScript, I enjoy bridging the gap between design and functionality.
+
 ## Education
 - **BS Information Technology**
   - New Era University
