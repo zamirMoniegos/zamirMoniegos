@@ -1,6 +1,6 @@
 # Hi there, I'm Zamir Moniegos! 🚀
 
-> *IT student · UI/UX & Web Developer · Database Administrator*
+> *IT student · UI/UX & Web Developer ·
 
 I'm a dedicated coder with a talent for **database administration** and a passion for solving complex problems with elegant solutions. My journey started with the BS Information Technology program at New Era University, and I've been on a never-ending learning trip ever since — from cloud infrastructure to NoSQL databases to machine learning fundamentals.
 
@@ -48,7 +48,6 @@ I craft clean, user-centered web experiences by combining **UI/UX design princip
 
 ![Lucidchart](https://img.shields.io/badge/Lucidchart-F96B13?style=for-the-badge&logo=lucidchart&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-![Jaspersoft](https://img.shields.io/badge/Jaspersoft-00A651?style=for-the-badge&logoColor=white)
 
 ---
 
