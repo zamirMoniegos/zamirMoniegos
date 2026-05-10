@@ -1,6 +1,6 @@
 # Hi there, I'm Zamir Moniegos! 🚀
 
-> *IT student · UI/UX & Web Developer ·
+IT student · UI/UX & Web Developer ·
 
 I'm a dedicated coder with a talent for **database administration** and a passion for solving complex problems with elegant solutions. My journey started with the BS Information Technology program at New Era University, and I've been on a never-ending learning trip ever since — from cloud infrastructure to NoSQL databases to machine learning fundamentals.
 
