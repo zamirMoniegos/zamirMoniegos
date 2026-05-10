@@ -2,9 +2,9 @@
 
 > IT student · UI/UX & Web Developer ·
 
-I'm a dedicated coder with a talent for **database administration** and a passion for solving complex problems with elegant solutions. My journey started with the BS Information Technology program at New Era University, and I've been on a never-ending learning trip ever since — from cloud infrastructure to NoSQL databases to machine learning fundamentals.
+I'm a dedicated coder, I craft clean, user-centered web experiences by combining **UI/UX design principles** with solid **web development** skills. Whether it's wireframing intuitive interfaces or bringing layouts to life with HTML, CSS, and JavaScript, I enjoy bridging the gap between design and functionality. Also i have passion for solving complex problems with elegant solutions. My journey started with the BS Information Technology program at New Era University, and I've been on a never-ending learning trip ever since — from cloud infrastructure to NoSQL databases to machine learning fundamentals.
 
-I craft clean, user-centered web experiences by combining **UI/UX design principles** with solid **web development** skills. Whether it's wireframing intuitive interfaces or bringing layouts to life with HTML, CSS, and JavaScript, I enjoy bridging the gap between design and functionality.
+
 
 ---
 
