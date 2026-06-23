@@ -12,7 +12,7 @@ I'm a dedicated coder, I craft clean, user-centered web experiences by combining
 
 | Degree | Institution | Period |
 |--------|-------------|--------|
-| BS Information Technology | New Era University | 2022 – Present |
+| BS Information Technology | New Era University | 2022 – 2026 |
 
 ---
 
