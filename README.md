@@ -2,7 +2,9 @@
 
 > IT student · UI/UX & Web Developer ·
 
-I'm a dedicated coder, I craft clean, user-centered web experiences by combining **UI/UX design principles** with solid **web development** skills. Whether it's wireframing intuitive interfaces or bringing layouts to life with HTML, CSS, and JavaScript, I enjoy bridging the gap between design and functionality. Also i have passion for solving complex problems with elegant solutions. My journey started with the BS Information Technology program at New Era University, and I've been on a never-ending learning trip ever since — from cloud infrastructure to NoSQL databases to machine learning fundamentals.
+I'm a developer who thinks like a designer. I craft clean, user-centered web experiences by merging UI/UX principles with solid front-end development — from wireframing intuitive interfaces to building them with HTML, CSS, and JavaScript. The gap between design and functionality is exactly where I like to work.
+
+I'm drawn to complex problems and the quiet satisfaction of solving them with something simple and elegant. My foundation started with a BS in information technology at New Era University—and the curiosity that came with it never really switched off.
 
 
 
